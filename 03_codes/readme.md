@@ -58,7 +58,7 @@ Sie haben so viel gelernt über die Darstellung von Daten im Computer, dass Sie 
   * Video: [Crash Course Computer Science: Compression](https://youtu.be/OtDxDvCpPL4)
   * Video: [Bleeptrack: Huffmancode](https://youtu.be/9crj8ISweLE)
   * Video: [Bleeptrack: Hammingcode](https://youtu.be/sANR9nA-8rA)
-  * Video: [Bleeptrack: Datenkompression LZ77 Kodierung](https://youtu.be/dxlOFcnGE-w)
+  * Video: [Bleeptrack: Datenkompression LZ77 Kodierung](https://youtu.be/dLvvGXwKUGw)
   * Video: [Bleeptrack: LZW-Kodierung](https://youtu.be/dLvvGXwKUGw)
 
 ## Übung
