@@ -3,11 +3,16 @@
 <!-- Chapter: 4 -->
 
 ## 4.1 PC konfigurieren
-Stellen Sie zwei PCs zusammen, einmal einen mit maximaler Leistung für Computer-Spiele und einmal einen einfachen Rechner für das Surfen im Internet. Verwenden Sie keinen komplett PC, sondern stellen Sie die Geräte aus einzelnen Komponenten zusammen, die Sie im Internet bei einem Hardware-Versand (z.B. [Alternate](https://www.alternate.de)) finden. Stellen Sie eine Stückliste, inklusive Preisen zusammen. Was kosten die beiden Rechner?
+Stellen Sie zwei PCs zusammen, einmal einen mit maximaler Leistung für Computer-Spiele und einmal einen einfachen Rechner für das Surfen im Internet. Verwenden Sie keinen komplett PC, sondern stellen Sie die Geräte aus einzelnen Komponenten zusammen, die Sie im Internet bei einem Hardware-Versand (z.B. [Alternate](https://www.alternate.de)) finden.
+
+Stellen Sie eine Stückliste, inklusive Preisen zusammen. Was kosten die beiden Rechner?
 
 
 ## 4.2 Vergleich Harvard- mit von Neumann-Architektur
-Vergleichen Sie kurz die Harvard mit der von Neumann-Architektur: Welche Vor- und Nachteile haben sie jeweils?
+Vergleichen Sie kurz die Harvard mit der von Neumann-Architektur:
+
+  * Welche Eigenschaften zeichnen die jeweilige Architektur aus?
+  * Welche Vor- und Nachteile haben sie jeweils?
 
 
 ## 4.3 RISC vs. CISC
@@ -26,7 +31,7 @@ Jeder Prozessor hat neben den "normalen" Registern einen Program Counter (PC) un
 
 
 ## 4.6 Adressraum
-Wie viel Speicher in Kilobyte kann ein Computer adressieren, wenn seine Adressen 16 Bit lang sind?
+Wie viel Speicher (in Kilo- bzw. Megabyte) kann ein Computer mit 16 Bit-Adressen ansprechen? Wie viel Speicher kann man entsprechend mit 32 Bit-Adressen verwenden?
 
 
 ## 4.7 64 Bit im Smartphone
