@@ -60,7 +60,7 @@ Der Besuch bei der Großmutter ist gut gelaufen und sie war ganz begeistert von 
   * Video: [TheSimpleInformatics: Bits und Bytes: Binärziffern 0 und 1 - Arithmetik in Computern 1](https://youtu.be/0Exik_Q3kDk)
   * Video: [TheSimpleInformatics: Darstellung ganzer Zahlen - Arithmetik in Computern 2](https://youtu.be/XG-rVDpm9A4)
   * Video: [TheSimpleInformatics: Grundbegriffe Datendarstellung - Daten- und Zeichendarstellung 1](https://youtu.be/szmRgTgztJo)
-  * Video: [TheSimpleInformatics: p-adische Zahlendarstellung - Daten- und Zeichendarstellung 2](https://youtu.be/zqlPXslQL8)
+  * Video: [TheSimpleInformatics: p-adische Zahlendarstellung - Daten- und Zeichendarstellung 2](https://youtu.be/WzqlPXslQL8)
   * Video: [Crash Course Computer Science: Representing Numbers and Letters with Binary](https://youtu.be/1GSjbWt0c9M)
 
 ## Übung
